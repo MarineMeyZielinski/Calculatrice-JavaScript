@@ -123,7 +123,7 @@ Modifier
 
 ## Clone le repo
 
-git clone https://github.com/votre-utilisateur/votre-repo.git
+git clone https://github.com/MarineMeyZielinski/Calculatrice-JavaScript.git
 
 ## Ouvre index.html dans un navigateur
 
